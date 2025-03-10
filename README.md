@@ -1,4 +1,28 @@
+
 # Based Unity Player Movement Script
+
+
+
+
+## How to use
+
+Create your character in unity
+
+Add RigidBody2D component
+
+
+Add a script component
+
+Copy paste the movement script into your script
+
+
+
+
+
+## Feedback
+
+If you have any feedback or bug found, please reach out to me at elizanjaredr@gmail.com
+
 
 ## License
 
