@@ -11,7 +11,7 @@ Create your character in unity
 Add RigidBody2D component
 
 
-Add a script component
+Add a script component (choose either movement or movement2)
 
 Copy paste the movement script into your script
 
